@@ -113,3 +113,4 @@ Plus 11 more across govtech, insurance, security (MITRE ATT&CK), HR-tech (EEOC b
 ---
 
 <sub>🇫🇷 Based in France · Driver's licence B · Languages: French — TCF B2 · English — Professional</sub>
+<!-- profile refresh ping -->
